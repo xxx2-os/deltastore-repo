@@ -1,0 +1,16 @@
+[
+  {
+    "id": "com.delta.python_term",
+    "name": "Python Terminal",
+    "version": "1.0.0",
+    "description": "REPL Interpreter for TrollData",
+    "download_url": "https://example.com/files/python_term.zip"
+  },
+  {
+    "id": "com.delta.busybox",
+    "name": "BusyBox Tools",
+    "version": "1.35.0",
+    "description": "Essential Unix Utilities",
+    "download_url": "https://example.com/files/busybox.zip"
+  }
+]
